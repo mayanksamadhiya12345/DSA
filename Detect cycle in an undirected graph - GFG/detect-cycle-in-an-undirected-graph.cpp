@@ -5,29 +5,18 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-    bool detect(int node,vector<bool>& vis,vector<int> adj[])
+    bool detect(int node,int par,vector<bool>& vis,vector<int> adj[])
     {
         vis[node] = true;
-        queue<pair<int,int>> q;           // child,par
-        
-        q.push({node,-1});
-        while(!q.empty())
+        for(auto it : adj[node])
         {
-            int child = q.front().first;
-            int par = q.front().second;
-            q.pop();
-            
-            for(auto it : adj[child])
+            if(!vis[it])
             {
-                if(!vis[it])
-                {
-                    vis[it] = true;
-                    q.push({it,child});
-                }
-                else if(par != it)
-                {
-                    return true;
-                }
+                if(detect(it,node,vis,adj)) return true;
+            }
+            else if(it != par)
+            {
+                return true;
             }
         }
         
@@ -41,7 +30,7 @@ class Solution {
         {
             if(!vis[i])
             {
-                if(detect(i,vis,adj))
+                if(detect(i,-1,vis,adj))
                 {
                     return true;
                 }
