@@ -7,27 +7,24 @@ class Solution {
 public:
     bool check(int node,vector<int>& color,vector<int> adj[])
     {
-        color[node] = 0;
-        
-        queue<int> q;
-        q.push(node);
-        
-        while(!q.empty())
+        if(color[node]==-1)
         {
-            int nod = q.front();
-            q.pop();
-            
-            for(auto it : adj[nod])
+            color[node] = 0;
+        }
+        
+        for(auto it : adj[node])
+        {
+            if(color[it]==-1)
             {
-                if(color[it]==-1)
-                {
-                    color[it] = 1-color[nod];
-                    q.push(it);
-                }
-                else if(color[it]==color[nod])
+                color[it] = 1-color[node];
+                if(!check(it,color,adj))
                 {
                     return false;
                 }
+            }
+            else if(color[it]==color[node])
+            {
+                return false;
             }
         }
         
