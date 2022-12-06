@@ -5,41 +5,47 @@ using namespace std;
 // } Driver Code Ends
 class Solution
 {
-    private:
-    void topo(int node,vector<int>& vis,stack<int>& st,vector<int> adj[])
-    {
-        vis[node] = 1;
-        
-        for(auto it : adj[node])
-        {
-            if(!vis[it])
-            {
-                topo(it,vis,st,adj);
-            }
-        }
-        
-        st.push(node);
-        return;
-    }
-    
 	public:
 	vector<int> topoSort(int V, vector<int> adj[]) 
 	{
-	    vector<int> vis(V,0);
-	    stack<int> st;
+	    vector<int> inDegree(V,0);
+	    vector<int> ans;
+	    queue<int> q;
+	    
+	    // counting inDegree
 	    for(int i=0;i<V;i++)
 	    {
-	        if(!vis[i])
+	        for(auto it : adj[i])
 	        {
-	            topo(i,vis,st,adj);
+	            inDegree[it]++;
 	        }
 	    }
 	    
-	    vector<int> ans;
-	    while(!st.empty())
+	    // push all the nodes into queue that are having inDegree 0
+	    for(int i=0;i<V;i++)
 	    {
-	        ans.push_back(st.top());
-	        st.pop();
+	        if(inDegree[i]==0)
+	        {
+	            q.push(i);
+	        }
+	    }
+	    
+	    // stroing topo sort using BFS (Kanh's Algo)
+	    while(!q.empty())
+	    {
+	        int node = q.front();
+	        q.pop();
+	        
+	        ans.push_back(node);
+	        
+	        for(auto it : adj[node])
+	        {
+	            inDegree[it]--;
+	            if(inDegree[it]==0)
+	            {
+	                q.push(it);
+	            }
+	        }
 	    }
 	    
 	    return ans;
