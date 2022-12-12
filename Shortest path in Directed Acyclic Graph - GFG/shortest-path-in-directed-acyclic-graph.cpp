@@ -18,11 +18,9 @@ class Solution {
         }
         
         vector<int> dis(N,INT_MAX);
-        vector<bool> vis(N,false);
         
         queue<int> q;
         dis[0]=0;
-        vis[0] = true;
         q.push(0);                     // node
         
         while(!q.empty())
@@ -35,7 +33,7 @@ class Solution {
                 int nex = it.first;
                 int next_dis = it.second;
             
-                if(!vis[nex] && dis[nex] > dis[node]+next_dis)
+                if(dis[nex] > dis[node]+next_dis)
                 {
                     dis[nex] = dis[node] + next_dis;
                     q.push(nex);
