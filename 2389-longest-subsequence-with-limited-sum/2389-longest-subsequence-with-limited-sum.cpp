@@ -2,28 +2,28 @@ class Solution {
 public:
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) 
     {
-        int n = queries.size();
+        int n = nums.size();
+        int m = queries.size();
         
-        // sort the array, because order will not matter
-        sort(nums.begin(), nums.end());
+        sort(nums.begin(),nums.end());
+        int sum = 0;
+        vector<int> pre_sum;
         
-        // find the prefix sum
-        for(int i = 1; i < nums.size(); i++)
+        for(int i=0;i<n;i++)
         {
-            nums[i] += nums[i - 1];
+            sum += nums[i];
+            pre_sum.push_back(sum);
         }
         
-        // res[i] will store the answer of each query
-        vector<int> res(n);
-        
-        // solve for each query
-        for(int i = 0; i < n; i++)
+        vector<int> ans(m,0);
+        for(int i=0;i<m;i++)
         {
-            // find the upper bound of sum
-            int idx = upper_bound(nums.begin(), nums.end(), queries[i]) - nums.begin();
-            res[i] = idx;
+            for(int j=0;j<n;j++)
+            {
+                if(pre_sum[j] <= queries[i]) ans[i] = j+1;
+                else break;
+            }
         }
-        
-        return res;
+        return ans;
     }
 };
