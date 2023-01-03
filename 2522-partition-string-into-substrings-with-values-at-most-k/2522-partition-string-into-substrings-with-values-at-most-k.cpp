@@ -3,7 +3,7 @@ class Solution {
 public:
     int minimumPartition(string s, int k) 
     {
-        int cnt=1;                                 // took 1 because at last we will take a number that will be greater then k so for counting that 
+        int cnt=0;
         long long num=0;
         for(int i=0;i<s.length();i++)
         {
@@ -20,6 +20,8 @@ public:
             
         }
         
+        // if num is still less than k, then count it as a substring
+        if(num<=k) cnt++;
         return cnt;
     }
 };
