@@ -17,7 +17,10 @@ public:
                 count++;
                 last_point=it[1];             // updated last point
             }
-            last_point = min(last_point,it[1]);
+            else
+            {
+                last_point = min(last_point,it[1]);
+            }
         }
         
         return count;
