@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
 # Math
 |  |
 | ------- |
@@ -18,3 +20,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0523-continuous-subarray-sum) |
+# Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
