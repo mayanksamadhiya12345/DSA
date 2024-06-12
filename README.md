@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
 # Hash Table
@@ -23,8 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
