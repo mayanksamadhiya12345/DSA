@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mayanksamadhiya12345/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mayanksamadhiya12345/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
@@ -34,3 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mayanksamadhiya12345/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
