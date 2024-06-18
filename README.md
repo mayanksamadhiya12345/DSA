@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0853-most-profit-assigning-work](https://github.com/mayanksamadhiya12345/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mayanksamadhiya12345/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/mayanksamadhiya12345/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mayanksamadhiya12345/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
@@ -38,11 +40,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/mayanksamadhiya12345/DSA/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksamadhiya12345/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/mayanksamadhiya12345/DSA/tree/master/0853-most-profit-assigning-work) |
 # Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/mayanksamadhiya12345/DSA/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mayanksamadhiya12345/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/mayanksamadhiya12345/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/mayanksamadhiya12345/DSA/tree/master/0853-most-profit-assigning-work) |
