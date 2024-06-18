@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        long long st=0;
-        long long en=sqrt(c);
+        long st=0;
+        long en=sqrt(c);
 
         while(st<=en)
         {
