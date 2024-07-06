@@ -82,4 +82,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mayanksamadhiya12345/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
