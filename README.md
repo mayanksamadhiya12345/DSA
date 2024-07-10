@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
