@@ -14,7 +14,7 @@ public:
         {
             int curr = nums1[i];
             int idx = mp[curr];
-            bool flag = false;
+            // bool flag = false;
 
             for(int j=idx+1;j<n2;j++)
             {
@@ -23,12 +23,16 @@ public:
                 {
                     ans.push_back(nums2[j]);
                     // after taking the big value there is no mean to procedd further so just break the loop by saying I found one big value
-                    flag = true;
+                    // flag = true;
                     break;
                 }
+
+                // if you reached to the last index without findign any big value so insert -1
+                if(j==n2-1) ans.push_back(-1);
             }
+            if(idx == n2-1) ans.push_back(-1);
             // if we have not found any big value in that case -1 should be included
-            if(flag == false) ans.push_back(-1);
+            // if(flag == false) ans.push_back(-1);
         }
         return ans;
     }
