@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/mayanksamadhiya12345/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mayanksamadhiya12345/DSA/tree/master/0051-n-queens) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayanksamadhiya12345/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/mayanksamadhiya12345/DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mayanksamadhiya12345/DSA/tree/master/0165-compare-version-numbers) |
 ## Trie
