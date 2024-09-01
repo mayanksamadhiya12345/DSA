@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
@@ -199,4 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
+## Depth-First Search
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
