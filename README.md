@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mayanksamadhiya12345/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Array
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
