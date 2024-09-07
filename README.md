@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayanksamadhiya12345/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mayanksamadhiya12345/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
