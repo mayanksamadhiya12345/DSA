@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -268,4 +270,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
