@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/mayanksamadhiya12345/DSA/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [0564-find-the-closest-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayanksamadhiya12345/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayanksamadhiya12345/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
+| [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
