@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mayanksamadhiya12345/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
 | [0564-find-the-closest-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
