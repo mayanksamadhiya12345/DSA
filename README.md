@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/mayanksamadhiya12345/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mayanksamadhiya12345/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/mayanksamadhiya12345/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mayanksamadhiya12345/DSA/tree/master/0038-count-and-say) |
+| [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
