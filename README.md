@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mayanksamadhiya12345/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/mayanksamadhiya12345/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/mayanksamadhiya12345/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mayanksamadhiya12345/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0242-valid-anagram) |
