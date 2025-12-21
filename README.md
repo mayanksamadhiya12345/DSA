@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mayanksamadhiya12345/DSA/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/mayanksamadhiya12345/DSA/tree/master/0468-validate-ip-address) |
 | [0564-find-the-closest-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0242-valid-anagram) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
