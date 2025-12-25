@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mayanksamadhiya12345/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mayanksamadhiya12345/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
