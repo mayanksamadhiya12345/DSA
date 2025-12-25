@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/mayanksamadhiya12345/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mayanksamadhiya12345/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mayanksamadhiya12345/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mayanksamadhiya12345/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
