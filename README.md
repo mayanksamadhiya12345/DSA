@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1470-shuffle-the-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1470-shuffle-the-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mayanksamadhiya12345/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
