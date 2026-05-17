@@ -5,7 +5,7 @@ public:
         if(n<=1) return 0;
         int mxJump=0, jump=0, nextPos=0;
         for(int i=0;i<n;i++) {
-            if(mxJump==n) return jump;
+            if(i==n-1) return jump;
             if(i>mxJump) return 0;
             else mxJump = max(mxJump, nums[i]+i);
 
@@ -14,6 +14,6 @@ public:
                 nextPos = mxJump;
             }
         }
-        return jump-1;
+        return jump;
     }
 };
