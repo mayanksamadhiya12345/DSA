@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/mayanksamadhiya12345/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mayanksamadhiya12345/DSA/tree/master/0051-n-queens) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayanksamadhiya12345/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
