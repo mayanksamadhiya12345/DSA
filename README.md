@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
