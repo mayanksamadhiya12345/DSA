@@ -4,17 +4,21 @@ public:
         int n = A.size();
         vector<int> res(n);
         map<int, int> mp;
+        int dup=0;
         
         for(int i=0;i<n;i++) {
-            mp[B[i]]++; // Array B
+            mp[A[i]]++;
 
-            // Check the occurance for A
-            for(int j=0;j<=i;j++) {
-                if(mp.find(A[j]) != mp.end()) {
-                    cout<<A[j]<<" "<<mp[A[j]]<<endl;
-                    res[i] += mp[A[j]];
-                }
+            if(mp[A[i]] == 2) {
+                dup++;
             }
+
+            mp[B[i]]++;
+            if(mp[B[i]] == 2) {
+                dup++;
+            }
+
+            res[i] = dup;
         }
         return res;
     }
