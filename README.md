@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mayanksamadhiya12345/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0014-longest-common-prefix) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
