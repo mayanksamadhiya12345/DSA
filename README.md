@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
+| [1340-jump-game-v](https://github.com/mayanksamadhiya12345/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/mayanksamadhiya12345/DSA/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1340-jump-game-v](https://github.com/mayanksamadhiya12345/DSA/tree/master/1340-jump-game-v) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayanksamadhiya12345/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1340-jump-game-v](https://github.com/mayanksamadhiya12345/DSA/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
