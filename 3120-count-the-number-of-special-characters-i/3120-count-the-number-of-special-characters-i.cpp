@@ -1,23 +1,21 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        set<char> st(word.begin(), word.end());
-        map<char, int> mp;
-        for(auto&it : st) {
-            if(it>='a' && it<='z')
-                mp[it]++;
-            else if(it>='A' && it<='Z')
-                mp[it+32]++;
+        vector<bool> lower(26, false), upper(26, false);
+
+        for (char c : word) {
+            if (c >= 'a' && c <= 'z')
+                lower[c - 'a'] = true;
+            else if (c >= 'A' && c <= 'Z')
+                upper[c - 'A'] = true;
         }
 
-        int count=0;
-        for(auto&it : mp) {
-            if(it.second>1) {
-                cout<<it.first<<" "<<it.second<<endl;
+        int count = 0;
+        for (int i = 0; i < 26; i++) {
+            if (lower[i] && upper[i]) {
                 count++;
             }
         }
-
         return count;
     }
 };
