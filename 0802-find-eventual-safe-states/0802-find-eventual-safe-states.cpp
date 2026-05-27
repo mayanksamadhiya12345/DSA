@@ -1,66 +1,51 @@
 class Solution {
 public:
-    bool dfs(int node,vector<int>& vis,vector<int>& pathvis,vector<int>& check,vector<int> adj[])
-    {
-        vis[node] = 1;
-        pathvis[node] = 1;
-        
-        for(auto it : adj[node])
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int n = graph.size();
+        vector<int> adj[n];
+
+        for(int i=0;i<n;i++)
         {
-            if(vis[it]==0)
+            for(auto&it : graph[i])
             {
-                // if we found cycle anywhere it means it not can not be safe node at all
-                if(dfs(it,vis,pathvis,check,adj))
-                {
-                    return true;
-                }
-            }
-            else if(pathvis[it]==1)           // cycle found {already visited both}
-            {
-                return true;
+                adj[it].push_back(i);
             }
         }
-        
-        check[node] = 1;                // if we don't find any cycle for node then mark it as safe node
-        pathvis[node] = 0;              // make this not visited
-        return false;                   // no cycle
-    }
-    
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) 
-    {
-        int V = graph.size();
-        vector<int> adj[V];
-        
-        for(int i=0;i<V;i++)
+
+        vector<int> inDegree(n);
+        for(int i=0;i<n;i++)
         {
-            for(int j=0;j<graph[i].size();j++)
+            for(auto&it : adj[i])
             {
-                adj[i].push_back(graph[i][j]);
+                inDegree[it]++;
             }
         }
-        
-        vector<int> vis(V,0);                        // visited
-        vector<int> pathvis(V,0);                    // for keep tracking directed graph
-        vector<int> check(V,0);                      // it will store safe as 1
-        
-        // for each component
-        for(int i=0;i<V;i++)
+
+        queue<int> q;
+        for(int i=0;i<n;i++)
         {
-            if(!vis[i])
+            if(inDegree[i]==0)
             {
-                dfs(i,vis,pathvis,check,adj);
+                q.push(i);
             }
         }
-        
+
         vector<int> ans;
-        for(int i=0;i<V;i++)
+        while(!q.empty())
         {
-            if(check[i]==1)
+            int node = q.front();
+            q.pop();
+
+            ans.push_back(node);
+
+            for(auto&it : adj[node])
             {
-                ans.push_back(i);
+                inDegree[it]--;
+                if(inDegree[it]==0) q.push(it);
             }
         }
-        
+
+        sort(ans.begin(), ans.end());
         return ans;
     }
 };
