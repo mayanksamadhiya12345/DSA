@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mayanksamadhiya12345/DSA/tree/master/1345-jump-game-iv) |
@@ -431,4 +435,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
