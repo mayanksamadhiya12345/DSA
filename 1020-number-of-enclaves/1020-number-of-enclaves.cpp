@@ -1,51 +1,40 @@
 class Solution {
 public:
-    void dfs(int r,int c,int n,int m,vector<vector<int>>& grid)
-    {
-        if(r<0 || c<0 || r>=n || c>=m || grid[r][c]!=1)
+    void solve(int i, int j, int n, int m, vector<vector<bool>>& vis, vector<vector<int>>& board) {
+        if(i<0 || i>=n || j<0 || j>=m || vis[i][j] || board[i][j] != 1)
             return;
-        
-        grid[r][c] = 2;                 // start marking boundary conneced 1 so we will not count them for not move
-         
-        dfs(r+1,c,n,m,grid);
-        dfs(r-1,c,n,m,grid);
-        dfs(r,c+1,n,m,grid);
-        dfs(r,c-1,n,m,grid);
+
+        vis[i][j] = true;
+        solve(i+1, j, n, m, vis, board);
+        solve(i-1, j, n, m, vis, board);
+        solve(i, j+1, n, m, vis, board);
+        solve(i, j-1, n, m, vis, board);
+        return;
     }
-    
-    int numEnclaves(vector<vector<int>>& grid) 
-    {
-        int n = grid.size();
-        int m = grid[0].size();
-        
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                // for all boundary values if there is 1 then cover all its connected one (because from there we can move outside)
-                if(i==0 || j==0 || i==n-1 || j==m-1)
-                {
-                    if(grid[i][j]==1)
-                    {
-                        dfs(i,j,n,m,grid);
-                    }
+    int numEnclaves(vector<vector<int>>& board) {
+        int n = board.size();
+        int m = board[0].size();
+        vector<vector<bool>> vis(n, vector<bool> (m, false));
+
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
+                if(i==0 || i==n-1 || j==0 || j==m-1) {
+                    solve(i, j, n, m, vis, board);
                 }
             }
         }
-        
-        int not_move = 0;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                // count 1 by which we can not move outside (non boundary connected)
-                if(grid[i][j]==1)
-                {
-                    not_move++;
+
+        int count=0;
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
+                if(vis[i][j] == true) {
+                    continue;
+                }
+                else if(board[i][j]==1) {
+                    count++;
                 }
             }
         }
-        
-        return not_move;
+        return count;
     }
 };
