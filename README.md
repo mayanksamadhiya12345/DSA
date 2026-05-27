@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mayanksamadhiya12345/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/mayanksamadhiya12345/DSA/tree/master/1340-jump-game-v) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayanksamadhiya12345/DSA/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
