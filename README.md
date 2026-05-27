@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mayanksamadhiya12345/DSA/tree/master/1345-jump-game-iv) |
