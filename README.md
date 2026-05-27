@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/0217-contains-duplicate) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/mayanksamadhiya12345/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayanksamadhiya12345/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayanksamadhiya12345/DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
@@ -423,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
