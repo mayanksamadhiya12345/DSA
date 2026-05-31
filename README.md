@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayanksamadhiya12345/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mayanksamadhiya12345/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1340-jump-game-v](https://github.com/mayanksamadhiya12345/DSA/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
 |  |
