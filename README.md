@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mayanksamadhiya12345/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mayanksamadhiya12345/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1345-jump-game-iv](https://github.com/mayanksamadhiya12345/DSA/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/mayanksamadhiya12345/DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
 | ------- |
