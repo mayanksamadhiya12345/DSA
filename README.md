@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union Find
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
