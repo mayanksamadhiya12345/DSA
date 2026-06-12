@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/mayanksamadhiya12345/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mayanksamadhiya12345/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksamadhiya12345/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/mayanksamadhiya12345/DSA/tree/master/0062-unique-paths) |
 | [0564-find-the-closest-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
@@ -519,4 +521,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mayanksamadhiya12345/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
