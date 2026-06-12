@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mayanksamadhiya12345/DSA/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayanksamadhiya12345/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -382,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -395,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
