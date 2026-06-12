@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mayanksamadhiya12345/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayanksamadhiya12345/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/mayanksamadhiya12345/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mayanksamadhiya12345/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
