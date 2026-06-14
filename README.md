@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/mayanksamadhiya12345/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/mayanksamadhiya12345/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mayanksamadhiya12345/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/mayanksamadhiya12345/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayanksamadhiya12345/DSA/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/mayanksamadhiya12345/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
