@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mayanksamadhiya12345/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mayanksamadhiya12345/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mayanksamadhiya12345/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1143-longest-common-subsequence) |
