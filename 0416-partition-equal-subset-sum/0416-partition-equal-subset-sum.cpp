@@ -23,20 +23,23 @@ public:
         int tar = target/2;
         // vector<vector<int>> dp(n, vector<int> (tar+1, -1));
         vector<vector<int>> dp(n, vector<int> (tar+1, 0));
-        for(int i=0;i<n;i++) dp[i][0] = true;
-        if(nums[0]<=tar) dp[0][nums[0]] = true;
+        vector<int> curr(tar+1, 0), prev(tar+1, 0);
+        if(nums[0]<=tar) curr[nums[0]] = true;
+
+        curr[0] = prev[0] = true;
 
         for(int i=1;i<n;i++) {
             for(int t=1;t<=tar;t++) {
                 int take=false;
                 if(nums[i]<=t) {
-                    take = dp[i-1][t-nums[i]]; 
+                    take = prev[t-nums[i]]; 
                 }
 
-                int not_take = dp[i-1][t];
-                dp[i][t] = take || not_take;
+                int not_take = prev[t];
+                curr[t] = take || not_take;
             }
+            prev = curr;
         }
-        return dp[n-1][tar];
+        return prev[tar];
     }
 };
