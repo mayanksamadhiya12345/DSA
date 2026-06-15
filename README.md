@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/mayanksamadhiya12345/DSA/tree/master/0468-validate-ip-address) |
+| [0516-longest-palindromic-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/mayanksamadhiya12345/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mayanksamadhiya12345/DSA/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/1143-longest-common-subsequence) |
