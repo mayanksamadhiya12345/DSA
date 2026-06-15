@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mayanksamadhiya12345/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/mayanksamadhiya12345/DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/mayanksamadhiya12345/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/mayanksamadhiya12345/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
