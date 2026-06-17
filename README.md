@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksamadhiya12345/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/mayanksamadhiya12345/DSA/tree/master/0179-largest-number) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/mayanksamadhiya12345/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mayanksamadhiya12345/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksamadhiya12345/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mayanksamadhiya12345/DSA/tree/master/0322-coin-change) |
