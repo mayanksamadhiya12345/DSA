@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayanksamadhiya12345/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mayanksamadhiya12345/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/0496-next-greater-element-i) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/mayanksamadhiya12345/DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
