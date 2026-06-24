@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayanksamadhiya12345/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksamadhiya12345/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/mayanksamadhiya12345/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mayanksamadhiya12345/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/mayanksamadhiya12345/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -566,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/mayanksamadhiya12345/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
