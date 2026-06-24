@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mayanksamadhiya12345/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayanksamadhiya12345/DSA/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mayanksamadhiya12345/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayanksamadhiya12345/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/mayanksamadhiya12345/DSA/tree/master/0785-is-graph-bipartite) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mayanksamadhiya12345/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Greedy
