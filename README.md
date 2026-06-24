@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/mayanksamadhiya12345/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mayanksamadhiya12345/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mayanksamadhiya12345/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/mayanksamadhiya12345/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/mayanksamadhiya12345/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayanksamadhiya12345/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
