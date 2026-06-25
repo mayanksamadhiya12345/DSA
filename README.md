@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mayanksamadhiya12345/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mayanksamadhiya12345/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mayanksamadhiya12345/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/mayanksamadhiya12345/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0064-minimum-path-sum) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayanksamadhiya12345/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/mayanksamadhiya12345/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayanksamadhiya12345/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0063-unique-paths-ii) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mayanksamadhiya12345/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayanksamadhiya12345/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/mayanksamadhiya12345/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
