@@ -20,6 +20,6 @@ public:
                 maxEnd = it[1];
             }
         }
-        return intervals.size() - count;
+        return n - count;
     }
 };
