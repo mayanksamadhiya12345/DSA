@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mayanksamadhiya12345/DSA/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/mayanksamadhiya12345/DSA/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/mayanksamadhiya12345/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mayanksamadhiya12345/DSA/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/mayanksamadhiya12345/DSA/tree/master/1325-path-with-maximum-probability) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mayanksamadhiya12345/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayanksamadhiya12345/DSA/tree/master/1036-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/mayanksamadhiya12345/DSA/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/mayanksamadhiya12345/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mayanksamadhiya12345/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
