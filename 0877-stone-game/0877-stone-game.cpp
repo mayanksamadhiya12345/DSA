@@ -33,6 +33,7 @@ public:
                     alice += piles[j];
                     j--;
                 }
+                
             }
             else{
                 if(piles[i] == piles[j]){
