@@ -35,25 +35,25 @@ public:
                 }
                 
             }
-            else{
-                if(piles[i] == piles[j]){
-                    bob += piles[i];
-                    if(suma >= sumb){
-                        j--;
-                    }
-                    else{
-                        i++;
-                    }
-                }
-                else if(piles[i] > piles[j]){
-                    bob += piles[i];
-                    i++;
-                }
-                else{
-                    bob += piles[j];
-                    j--;
-                }
-            }
+            // else{
+            //     if(piles[i] == piles[j]){
+            //         bob += piles[i];
+            //         if(suma >= sumb){
+            //             j--;
+            //         }
+            //         else{
+            //             i++;
+            //         }
+            //     }
+            //     else if(piles[i] > piles[j]){
+            //         bob += piles[i];
+            //         i++;
+            //     }
+            //     else{
+            //         bob += piles[j];
+            //         j--;
+            //     }
+            // }
         }
 
         return alice >= bob;
