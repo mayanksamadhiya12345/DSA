@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/mayanksamadhiya12345/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/0494-target-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayanksamadhiya12345/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -581,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -704,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
