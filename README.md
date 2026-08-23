@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayanksamadhiya12345/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksamadhiya12345/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mayanksamadhiya12345/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayanksamadhiya12345/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
+| [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/mayanksamadhiya12345/DSA/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/mayanksamadhiya12345/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -714,4 +717,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
