@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/mayanksamadhiya12345/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayanksamadhiya12345/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/mayanksamadhiya12345/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mayanksamadhiya12345/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksamadhiya12345/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/mayanksamadhiya12345/DSA/tree/master/1340-jump-game-v) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayanksamadhiya12345/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayanksamadhiya12345/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/mayanksamadhiya12345/DSA/tree/master/1642-water-bottles) |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/mayanksamadhiya12345/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mayanksamadhiya12345/DSA/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/mayanksamadhiya12345/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/mayanksamadhiya12345/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -718,5 +722,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
