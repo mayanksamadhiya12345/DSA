@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mayanksamadhiya12345/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mayanksamadhiya12345/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2755-extra-characters-in-a-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayanksamadhiya12345/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mayanksamadhiya12345/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksamadhiya12345/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
 | ------- |
