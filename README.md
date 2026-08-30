@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksamadhiya12345/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/mayanksamadhiya12345/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/mayanksamadhiya12345/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/mayanksamadhiya12345/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/mayanksamadhiya12345/DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mayanksamadhiya12345/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/mayanksamadhiya12345/DSA/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mayanksamadhiya12345/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
