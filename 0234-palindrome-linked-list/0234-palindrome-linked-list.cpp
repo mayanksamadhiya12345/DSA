@@ -10,41 +10,42 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head)
-    {
-        ListNode* newHead=NULL;
-        while(head)
-        {
-            ListNode* next = head->next;
-            head->next = newHead;
-            newHead = head;
-            head = next;
-        }
-        return newHead;
-    }
-    bool isPalindrome(ListNode* head) 
-    {
-        ListNode* slow = head;
+    bool isPalindrome(ListNode* head) {
+        
+        if(head == nullptr || head->next == nullptr) return true;
+        if(head->next->next == nullptr) return head->val == head->next->val;
+
+         ListNode* slow = head;
         ListNode* fast = head;
 
-        while(fast->next && fast->next->next)
-        {
-            slow=slow->next;
-            fast=fast->next->next;
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        slow->next = reverse(slow->next);
-        slow=slow->next;
+        fast = head;
+        //reverse a second half of linked list 
+        ListNode* prev = nullptr;
+        ListNode* curr = slow;
 
-        while(slow != NULL)
-        {
-            cout<<slow->val<<" "<<head->val<<endl;
-            if(slow->val != head->val)
-            {
+        while(curr!=nullptr){
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        cout << prev->val << " slow " << slow->val <<endl;
+        slow = prev;
+
+
+        while(slow){
+            cout << "fast val " << fast->val << " slow val " << slow->val << endl;
+            if(fast->val != slow->val){
+                cout << "not a palindrome" << endl;
                 return false;
             }
-            slow=slow->next;
-            head=head->next;
+            slow= slow->next;
+            fast = fast->next;
         }
         return true;
     }
