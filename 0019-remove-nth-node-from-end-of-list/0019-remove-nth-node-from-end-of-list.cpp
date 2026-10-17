@@ -21,12 +21,14 @@ public:
         }
 
         while(fast->next){
-            slow= slow->next;
             fast = fast->next;
+            slow = slow->next;
         }
+       
         ListNode* tmp = slow->next;
-        slow->next = slow->next->next;
+        slow->next = tmp->next;
         delete tmp;
+        
         return ans->next;
     }
 };
