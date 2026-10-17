@@ -39,9 +39,9 @@ public:
 
 
         while(slow){
-            cout << "fast val " << fast->val << " slow val " << slow->val << endl;
+            // cout << "fast val " << fast->val << " slow val " << slow->val << endl;
             if(fast->val != slow->val){
-                cout << "not a palindrome" << endl;
+                // cout << "not a palindrome" << endl;
                 return false;
             }
             slow= slow->next;
