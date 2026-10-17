@@ -743,4 +743,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/mayanksamadhiya12345/DSA/tree/master/1872-stone-game-viii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/mayanksamadhiya12345/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
